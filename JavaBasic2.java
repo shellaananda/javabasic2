@@ -1,6 +1,6 @@
 public class JavaBasic2 {
     public static void main(String[] args) {
-        int nilai = 95;
+        int nilai = 60;
         if(nilai >= 0 && nilai <= 25){
             System.out.println("Nilai Anda E");
         }else if (nilai >= 26 && nilai<=50){
